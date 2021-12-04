@@ -12,7 +12,3 @@ This script with generate a unqiue ID for each new record and check to make sure
 # Geocoder:
 
 This script will Geocode an address into a Lat Lng.
-
-# Airtable to HubDB:
-
-This script will link an Airtable to HubDB, if you add or update a record in Airtable the changes will be reflected in HubDB.
