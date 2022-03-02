@@ -12,3 +12,7 @@ This script with generate a unqiue ID for each new record and check to make sure
 # Geocoder:
 
 This script will Geocode an address into a Lat Lng.
+
+# Address_Corrector:
+
+This script will correct a badly formatted address. Just set the input variable address to the badly formatted address
